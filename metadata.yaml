@@ -1,0 +1,32 @@
+_repo: The-Phantoms-of-the-Foot-Bridge-and-Other-Stories_36771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36771-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+tableOfContents: The phantoms of the foot-bridge -- His "day in court" -- 'Way down
+  in Lonesome Cove -- The moonshiners at Hoho-Hebee Falls -- The riddle of the rocks.
+title: The Phantoms of the Foot-Bridge, and Other Stories
+url: http://www.gutenberg.org/ebooks/36771
